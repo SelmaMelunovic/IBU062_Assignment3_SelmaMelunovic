@@ -58,3 +58,5 @@ no shutdown
 interface GigabitEthernet0/1
 ip address 210.3.14.1 255.255.255.0
 no shutdown
+
+(I thought we needed this from the start)
